@@ -10,3 +10,4 @@ This is new test message!
 
 ************************************************
 Now is not staged modified file2.txt
+Testing commit withoute command "git add"
