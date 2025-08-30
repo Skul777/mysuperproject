@@ -3,3 +3,10 @@ file 2
 Fixing error, on branch skull_task0788
 Test message
 test message 2
+new message 3
+new message 4
+This is new test message!
+
+
+************************************************
+Now is not staged modified file2.txt
